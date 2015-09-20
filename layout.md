@@ -1,0 +1,22 @@
+NOTES TO ONLINE READERS.tex
+abstract.tex
+Introduction.tex
+Nessie is Longer than We Thought.tex
+figures/1nessie_findingchart/1nessie_findingchart.png
+figures/table1/massofnessie_table.png
+Three Dimensional Position.tex
+figures/GalacticCoordinates/galacticcoordinates_rev.png
+using_rotation_curves.tex
+figures/nessie_faceon_both_final/nessie_faceon_both_final.png
+figures/sideview_both/sideview_both.jpg
+CO_velocities.tex
+figures/cleanedupCO/cleanedupCO.png
+NH3_velocities.tex
+figures/nessie_HOPS_ag_coded_smallfile/sideview_hops_both.jpg
+figures/7draftNessie_CO_lv/7draftNessie_CO_lv.jpg
+significance.tex
+figures/bones_dobbs/bones_dobbs.png
+can_we_map_full_skeleton.tex
+figures/9ic342_jarrett_lowres/9ic342_jarrett_lowres.jpg
+Contributions and Facilities.tex
+contributions.tex
